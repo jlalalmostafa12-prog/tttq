@@ -1,19 +1,9 @@
 [
   {
-    "id": "bot_provider_1770767050133",
-    "name": "جلال",
-    "token": "7091861211:AAHDmjyrNn7gsU_H1g8sCOqdryetggdEb0A",
-    "chatId": "1401302091",
-    "services": [
-      "taxi"
-    ],
-    "active": true
-  },
-  {
-    "id": "bot_provider_1770767241320",
-    "name": "جلال",
-    "token": "7091861211:AAHDmjyrNn7gsU_H1g8sCOqdryetggdEb0A",
-    "chatId": "1401302091",
+    "id": "bot_taxi_1",
+    "name": "بوت التكاسي دمشق",
+    "token": "",
+    "chatId": "@talabat_taxi",
     "services": [
       "taxi"
     ],
