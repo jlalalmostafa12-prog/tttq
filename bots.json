@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bot_taxi_1",
+    "name": "بوت التكاسي دمشق",
+    "token": "",
+    "chatId": "@talabat_taxi",
+    "services": [
+      "taxi"
+    ],
+    "active": true
+  }
+]
