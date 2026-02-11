@@ -42,22 +42,23 @@
       "takenByName": "dggfgggggy"
     },
     {
-      "id": "order_1770799220361_g1qx4sfsz",
+      "id": "order_1770809416797_2ibh3tfc8",
       "service": "taxi",
-      "details": "نفتوفوف",
+      "details": "يربربتتون",
       "location": {
-        "lat": 35.9303986,
-        "lng": 36.618164,
+        "lat": 35.9271561,
+        "lng": 36.6208842,
         "address": "موقعك الحالي"
       },
       "phone": "0949340870",
       "customerName": "جلال",
       "userId": "user_1770769905837",
       "image": null,
-      "timestamp": "2026-02-11T08:40:20.361Z",
+      "timestamp": "2026-02-11T11:30:16.797Z",
       "status": "new",
-      "hidden": false
+      "hidden": false,
+      "notificationSent": false
     }
   ],
-  "updated": "2026-02-11T08:40:20.369Z"
+  "updated": "2026-02-11T11:30:16.807Z"
 }
