@@ -14,14 +14,13 @@
       "userId": "user_1770769905837",
       "image": null,
       "timestamp": "2026-02-11T00:59:52.283Z",
-      "status": "completed",
+      "status": "taken",
       "hidden": false,
       "distance": 0.0009739975205004322,
       "takenBy": "provider_1770770022225",
-      "takenAt": 1770771979395,
-      "takenByName": "ugugug",
-      "completedAt": 1770771999574
+      "takenAt": 1770772008367,
+      "takenByName": "ugugug"
     }
   ],
-  "updated": "2026-02-11T01:06:39.574Z"
+  "updated": "2026-02-11T01:06:48.367Z"
 }
