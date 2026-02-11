@@ -55,10 +55,14 @@
       "userId": "user_1770769905837",
       "image": null,
       "timestamp": "2026-02-11T11:30:16.797Z",
-      "status": "new",
+      "status": "taken",
       "hidden": false,
-      "notificationSent": true
+      "notificationSent": true,
+      "distance": 0,
+      "takenBy": "provider_1770773493592",
+      "takenAt": 1770809432345,
+      "takenByName": "ugugug"
     }
   ],
-  "updated": "2026-02-11T11:30:20.399Z"
+  "updated": "2026-02-11T11:30:32.351Z"
 }
