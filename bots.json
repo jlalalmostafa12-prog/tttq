@@ -49,5 +49,15 @@
       "taxi"
     ],
     "active": true
+  },
+  {
+    "id": "bot_provider_1770809599475",
+    "name": "ugugug",
+    "token": "7091861211:AAHDmjyrNn7gsU_H1g8sCOqdryetggdEb0A",
+    "chatId": "1401302091",
+    "services": [
+      "taxi"
+    ],
+    "active": true
   }
 ]
