@@ -28,5 +28,16 @@
       "taxi"
     ],
     "active": true
+  },
+  {
+    "id": "bot_provider_1770772170899",
+    "name": "ugugug",
+    "token": "7091861211:AAHDmjyrNn7gsU_H1g8sCOqdryetggdEb0A",
+    "chatId": "1401302091",
+    "services": [
+      "taxi",
+      "electrician"
+    ],
+    "active": true
   }
 ]
