@@ -14,9 +14,12 @@
       "userId": "user_1770769905837",
       "image": null,
       "timestamp": "2026-02-11T00:59:52.283Z",
-      "status": "new",
-      "hidden": false
+      "status": "taken",
+      "hidden": false,
+      "takenBy": "provider_1770769879224",
+      "takenAt": 1770771910965,
+      "takenByName": "dggfgggggy"
     }
   ],
-  "updated": "2026-02-11T00:59:52.284Z"
+  "updated": "2026-02-11T01:05:10.966Z"
 }
