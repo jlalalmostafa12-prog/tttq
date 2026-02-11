@@ -13,8 +13,11 @@
       "customerName": "جلال",
       "userId": "user_1770769905837",
       "timestamp": "2026-02-11T00:33:03.290Z",
-      "status": "new"
+      "status": "taken",
+      "takenBy": "provider_1770770022225",
+      "takenAt": 1770770203880,
+      "takenByName": "ugugug"
     }
   ],
-  "updated": "2026-02-11T00:33:03.297Z"
+  "updated": "2026-02-11T00:36:43.880Z"
 }
