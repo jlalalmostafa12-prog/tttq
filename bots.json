@@ -1,11 +1,12 @@
 [
   {
-    "id": "bot_provider_1770858412207",
+    "id": "bot_provider_1770858826811",
     "name": "جلال",
     "token": "7091861211:AAHDmjyrNn7gsU_H1g8sCOqdryetggdEb0A",
     "chatId": "1401302091",
     "services": [
-      "taxi"
+      "taxi",
+      "delivery"
     ],
     "active": true
   }
