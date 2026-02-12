@@ -31,9 +31,13 @@
       "userId": "user_1770858421555",
       "image": null,
       "timestamp": "2026-02-12T01:13:58.594Z",
-      "status": "new",
-      "hidden": false
+      "status": "taken",
+      "hidden": false,
+      "distance": 0.00486371250577816,
+      "takenBy": "provider_1770858826811",
+      "takenAt": 1770859271425,
+      "takenByName": "جلال"
     }
   ],
-  "updated": "2026-02-12T01:13:58.598Z"
+  "updated": "2026-02-12T01:21:11.425Z"
 }
