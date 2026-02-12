@@ -39,7 +39,24 @@
       "takenBy": "provider_1770858412207",
       "takenAt": 1770858608072,
       "takenByName": "جلال"
+    },
+    {
+      "id": "order_1770858697574_ngtfs8aji",
+      "service": "delivery",
+      "details": "عااعاعلع",
+      "location": {
+        "lat": 35.9303628,
+        "lng": 36.6180798,
+        "address": "موقعك الحالي"
+      },
+      "phone": "0949340870",
+      "customerName": "جلال",
+      "userId": "user_1770858421555",
+      "image": null,
+      "timestamp": "2026-02-12T01:11:37.574Z",
+      "status": "new",
+      "hidden": false
     }
   ],
-  "updated": "2026-02-12T01:11:18.300Z"
+  "updated": "2026-02-12T01:11:37.576Z"
 }
